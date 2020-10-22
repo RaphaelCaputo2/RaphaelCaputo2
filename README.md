@@ -25,7 +25,7 @@ De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=rep
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaputo2&count_private=true&theme=gotham">
 
 </p>
-
+Possuo noções de:
 <br><br>
 
 <p >
