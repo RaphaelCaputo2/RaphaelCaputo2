@@ -28,11 +28,11 @@ Take a look at mine [Repositores](https://github.com/RaphaelCaputo2?tab=reposito
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaputo2&count_private=true&theme=dracula">
 
 </p>
-
+We have notions of:
 <br><br>
 
 <p >
-  We have notions of:
+  
   <span  class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
