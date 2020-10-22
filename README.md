@@ -1,3 +1,4 @@
+If you prefer, I have it in English [Readme in English](https://github.com/RaphaelCaputo2/RaphaelCaputo2/blob/main/english.md)
 # Raphael-Caputo
 
 ###  <h4> Olá! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
