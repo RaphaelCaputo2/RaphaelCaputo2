@@ -18,7 +18,7 @@ Ou se preferir [WhattsApp](https://api.whatsapp.com/send?phone=5524981304732)
 
 De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=repositories) :desktop_computer:.
 
-<p align="center">
+<p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaputo2&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaputo2&count_private=true&theme=dracula">
