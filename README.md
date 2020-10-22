@@ -21,8 +21,8 @@ De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=rep
 
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaputo2&hide=stars&show_icons=true&theme=dark&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaputo2&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaputo2&hide=stars&show_icons=true&theme=tokyonight&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaputo2&count_private=true&theme=tokyonight">
 
 </p>
 
