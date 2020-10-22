@@ -18,14 +18,17 @@ Ou se preferir [WhattsApp](https://api.whatsapp.com/send?phone=5524981304732)
 
 De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=repositories) :desktop_computer:.
 
-<div>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=RaphaelCaputo2&count_private=true&show_icons=true&theme=great-gatsby' alt='Raphael Caputo status'>
-</div>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaputo2&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaputo2&count_private=true&theme=dracula">
+
+</p>
 
 <br><br>
 
-<p align="center">
-  <span align="center" class="d-flex">
+<p >
+  <span  class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
@@ -40,3 +43,13 @@ De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=rep
 </p>
 
 ​![profile](https://komarev.com/ghpvc/?username=RaphaelCaputo2)
+[![HitCount](http://hits.dwyl.com/RaphaelCaputo2/{project}.svg)](http://hits.dwyl.com/RaphaelCaputo2/{project})
+
+
+
+
+
+<a href="https://www.linkedin.com/in/raphael-caputo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/raphascaputo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/faelcaputo/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
