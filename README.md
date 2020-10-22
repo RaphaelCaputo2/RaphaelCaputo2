@@ -1,12 +1,12 @@
 # Raphael-Caputo
 
-### Hello there :wave:
+### Hello :wave:
 
 Sou Raphael Caputo, estudante Full-Stack Developer.
 
 Gosto de criar aplicações, ensinar e ajudar as pessoas da minha comunidade sempre que precisam: :handshake:.
 
-Atualmente, estou apenas estudando na [Trybe] (www.betrybe.com), um programa de desenvolvimento full-stack remoto com foco em programação ponta a ponta, trabalho em equipe, e muito desenvolvimento em soft skills. 
+Atualmente, estou apenas estudando na [Trybe](www.betrybe.com), um programa de desenvolvimento full-stack remoto com foco em programação ponta a ponta, trabalho em equipe, e muito desenvolvimento em soft skills. 
 
 
 Atualmente, estou explorando novas oportunidades
