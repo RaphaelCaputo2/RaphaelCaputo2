@@ -11,6 +11,7 @@ No momento, estou apenas estudando na [Trybe](www.betrybe.com), um programa de d
 
 
 Atualmente, estou explorando novas oportunidades
+<hr>
 
 Pode me contactar pelo [Linkedin](https://www.linkedin.com/in/raphael-caputo/)
 
@@ -18,6 +19,8 @@ Pode me contactar pelo [Linkedin](https://www.linkedin.com/in/raphael-caputo/)
 Ou se preferir [WhattsApp](https://api.whatsapp.com/send?phone=5524981304732)
 
 De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=repositories) :desktop_computer:.
+
+<hr>
 
 <p align="left">
   
@@ -42,13 +45,15 @@ Possuo noções de:
   </span>
 </p>
 
+<hr>
+
 ​![profile](https://komarev.com/ghpvc/?username=RaphaelCaputo2)
 [![HitCount](http://hits.dwyl.com/RaphaelCaputo2/{project}.svg)](http://hits.dwyl.com/RaphaelCaputo2/{project})
 
 
 
 
-
+<hr>
 <a href="https://www.linkedin.com/in/raphael-caputo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/raphascaputo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/faelcaputo/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
