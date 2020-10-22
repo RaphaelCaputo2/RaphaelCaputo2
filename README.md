@@ -6,12 +6,13 @@ Sou Raphael Caputo, estudante Full-Stack Developer.
 
 Gosto de criar aplicações, ensinar e ajudar as pessoas da minha comunidade sempre que precisam: :handshake:.
 
-Atualmente, estou apenas estudando na [Trybe](www.betrybe.com), um programa de desenvolvimento full-stack remoto com foco em programação ponta a ponta, trabalho em equipe, e muito desenvolvimento em soft skills. 
+No momento, estou apenas estudando na [Trybe](www.betrybe.com), um programa de desenvolvimento full-stack remoto com foco em programação ponta a ponta, trabalho em equipe, e muito desenvolvimento em soft skills. 
 
 
 Atualmente, estou explorando novas oportunidades
 
 Pode me contactar pelo [Linkedin](https://www.linkedin.com/in/raphael-caputo/)
+Ou se preferir (WhattsApp)[https://api.whatsapp.com/send?phone=5524981304732]
 
 De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=repositories) :desktop_computer:.
 
