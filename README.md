@@ -14,7 +14,7 @@ Atualmente, estou explorando novas oportunidades
 Pode me contactar pelo [Linkedin](https://www.linkedin.com/in/raphael-caputo/)
 
 
-Ou se preferir [WhattsApp][https://api.whatsapp.com/send?phone=5524981304732]
+Ou se preferir [WhattsApp](https://api.whatsapp.com/send?phone=5524981304732)
 
 De uma olhada nos meus [Repositórios](https://github.com/RaphaelCaputo2?tab=repositories) :desktop_computer:.
 
