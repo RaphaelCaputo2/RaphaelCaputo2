@@ -1,6 +1,6 @@
 # Raphael-Caputo
 
-### Hello :wave:
+###  <h4> Olá! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 Sou Raphael Caputo, estudante Full-Stack Developer.
 
