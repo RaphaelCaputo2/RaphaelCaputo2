@@ -42,6 +42,7 @@ Possuo noções de:
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img title="Bulma" alt="Bulma" height=40 src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png">
+    <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest.png">
   </span>
 </p>
 
