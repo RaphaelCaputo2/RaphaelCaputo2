@@ -7,7 +7,7 @@
 
 - 🔭 No momento trabalho na start-up [Law-Quest](https://lawquest.com.br/)
 
-- 👨‍💻 Você pode encontrar meus projetos [www.raphaelcaputo.dev.br](www.raphaelcaputo.dev.br)
+- 👨‍💻 Você pode encontrar meus projetos www.raphaelcaputo.dev,br
 
 - 💬 Estou disposto a ajudar sobre **React, nextJs e qualquer tecnologia que eu tenha conhecimento**
 
