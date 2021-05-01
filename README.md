@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Raphael Caputo</h1>
-<h3 align="center">Desenvolvedor apaixonado full-cycle</h3>
+<h3 align="center">Desenvolvedor  full-cycle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelcaputo2&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelcaputo2" /> </p>
 
